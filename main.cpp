@@ -1,13 +1,3 @@
-/*
-VULTAGGIO SALVO
-305012
-
-NOTE:
----- è stata utilizzata la funzione di opencv GaussianBlur perchè con la mia versione
-----(bidimensionalGaussianBlur), che sembra essere funzionante, la funzoine Harrys non trova correttamente i keypoints
-
----- il programma eseguito carica automanticamente dalla cartella images la nuova copertina e la mostra in una finestra apposita
-*/
 
 //OpenCV
 #include <opencv2/core/core.hpp>
